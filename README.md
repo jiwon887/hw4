@@ -52,11 +52,10 @@ npm start
 │   │   └── filter.js         # 필터 기능  
 │   └── styles/               # 스타일 시트 디렉토리  
 ├── .env-dev                  # 환경 변수 파일  
-
-├── .env-prod                 # 환경 변수 파일(배포용)
+├── .env-prod                 # 환경 변수 파일(배포용)  
 ├── package.json              # 프로젝트 설정 및 의존성  
 ├── README.md                 # 프로젝트 문서  
-└── build/                    # 빌드된 정적 파일 
+└── build/                    # 빌드된 정적 파일  
 
 
 
